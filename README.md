@@ -1,1 +1,1 @@
-C# dilinde Paralel Programlama ile TCP üzerinden Dosya Tranfer Sistemi
+C# dilinde Paralel Programlama ile TCP üzerinden Dosya Transfer Sistemi
